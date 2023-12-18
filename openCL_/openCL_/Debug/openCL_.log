@@ -1,0 +1,5 @@
+﻿  openCL_.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 300 (OpenCL 3.0)
+  openCL_.vcxproj -> C:\Users\max\source\repos\openCL_\Debug\openCL_.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
